@@ -1,0 +1,95 @@
+{
+    "subject": "Jharkhand Tourism",
+    "questions": [
+        {
+            "id": 1,
+            "text": "Which waterfall in Jharkhand is known as the 'Niagara of India'?",
+            "option_a": "Hundru Falls",
+            "option_b": "Jonha Falls",
+            "option_c": "Dassam Falls",
+            "option_d": "Lodh Falls",
+            "correct_answer": "A"
+        },
+        {
+            "id": 2,
+            "text": "What is the capital city of Jharkhand?",
+            "option_a": "Jamshedpur",
+            "option_b": "Dhanbad",
+            "option_c": "Ranchi",
+            "option_d": "Bokaro",
+            "correct_answer": "C"
+        },
+        {
+            "id": 3,
+            "text": "Which national park in Jharkhand is famous for its tiger population?",
+            "option_a": "Betla National Park",
+            "option_b": "Hazaribagh National Park",
+            "option_c": "Dalma Wildlife Sanctuary",
+            "option_d": "Palamau Tiger Reserve",
+            "correct_answer": "A"
+        },
+        {
+            "id": 4,
+            "text": "The Baba Baidyanath Jyotirlinga temple is located in which district?",
+            "option_a": "Ranchi",
+            "option_b": "Deoghar",
+            "option_c": "Dumka",
+            "option_d": "Giridih",
+            "correct_answer": "B"
+        },
+        {
+            "id": 5,
+            "text": "Which hill station is known as the 'Queen of Chotanagpur'?",
+            "option_a": "Parasnath",
+            "option_b": "Netarhat",
+            "option_c": "Patratu",
+            "option_d": "Kiriburu",
+            "correct_answer": "B"
+        },
+        {
+            "id": 6,
+            "text": "Parasnath Hill is a significant pilgrimage site for which religion?",
+            "option_a": "Hinduism",
+            "option_b": "Buddhism",
+            "option_c": "Jainism",
+            "option_d": "Sikhism",
+            "correct_answer": "C"
+        },
+        {
+            "id": 7,
+            "text": "Where is the Rock Garden located in Jharkhand?",
+            "option_a": "Jamshedpur",
+            "option_b": "Dhanbad",
+            "option_c": "Ranchi",
+            "option_d": "Hazaribagh",
+            "correct_answer": "C"
+        },
+        {
+            "id": 8,
+            "text": "Which dam is built on the Subarnarekha river near Jamshedpur?",
+            "option_a": "Maithon Dam",
+            "option_b": "Panchet Dam",
+            "option_c": "Chandil Dam",
+            "option_d": "Tilaiya Dam",
+            "correct_answer": "C"
+        },
+        {
+            "id": 9,
+            "text": "What is the primary folk dance associated with the Sarhul festival in Jharkhand?",
+            "option_a": "Chhau",
+            "option_b": "Jhumair",
+            "option_c": "Paika",
+            "option_d": "Santhal",
+            "correct_answer": "A"
+        },
+        {
+            "id": 10,
+            "text": "Which city is known as the 'Steel City of India'?",
+            "option_a": "Ranchi",
+            "option_b": "Bokaro",
+            "option_c": "Dhanbad",
+            "option_d": "Jamshedpur",
+            "correct_answer": "D"
+        }
+    ]
+}
